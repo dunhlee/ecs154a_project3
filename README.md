@@ -4,7 +4,7 @@ Student 1: Dunh Adam Lee (921476881)
 Student 2: Weiyang Yu (919410927)
 
 ## Project Status
-This the current status of the project ...
+CLA is complete and functional
 
 ## Known Issues
 The project fails to function properly in ...
